@@ -176,7 +176,7 @@ avg_age_by_sex = df.groupby('Sex')['AgeOnIndexDate'].mean()
 print(avg_age_by_sex)
 ```
 
-## 📊 Key Libraries Used
+##  Key Libraries Used
 
 - **Pandas** - Data manipulation and analysis
 - **NumPy** - Numerical computing
@@ -185,7 +185,7 @@ print(avg_age_by_sex)
 - **Scikit-learn** - Machine learning
 - **Statsmodels** - Statistical modeling
 
-## 📖 Additional Resources
+##  Additional Resources
 
 - [Python for Data Analysis by Wes McKinney](https://wesmckinney.com/book/)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
@@ -193,7 +193,7 @@ print(avg_age_by_sex)
 - [Statsmodels Documentation](https://www.statsmodels.org/)
 
 
-## 📧 Contact
+##  Contact
 
 **Nahiyan Bin Noor, MS**  
 Data Analyst - Intermediate  
@@ -202,7 +202,7 @@ University of Arkansas for Medical Sciences
 
 For questions about this training or the materials, please open an issue in this repository.
 
-## 📄 License
+##  License
 
 This training material is provided for educational purposes. Please cite appropriately if using in academic or professional settings.
 
