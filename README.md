@@ -196,6 +196,7 @@ print(avg_age_by_sex)
 ##  Contact
 
 **Nahiyan Bin Noor, MS**  
+nbnoor@uams.edu
 Data Analyst - Intermediate  
 Institute for Digital Health & Innovation  
 University of Arkansas for Medical Sciences
