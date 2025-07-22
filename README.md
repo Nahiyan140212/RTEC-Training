@@ -14,7 +14,6 @@ University of Arkansas for Medical Sciences
 - [Training Materials](#training-materials)
 - [Topics Covered](#topics-covered)
 - [Sample Code](#sample-code)
-- [Resources](#resources)
 - [Contact](#contact)
 
 ##  Overview
