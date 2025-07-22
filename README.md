@@ -7,7 +7,7 @@ Data Analyst - Intermediate
 Institute for Digital Health & Innovation  
 University of Arkansas for Medical Sciences
 
-## 📋 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
